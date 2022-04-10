@@ -1,5 +1,5 @@
 # A simple data visualiztion using R (dplyr, ggplot2) 
-The question "Which department has the highest employee turnover? Which one has the lowest?" was part of a DataCamp competitions.
+The question "Which department has the highest employee turnover? Which one has the lowest?" was part of a DataCamp competition.
 Data from https://www.datacamp.com
   - "department" - the department the employee belongs to.
   - "promoted" - 1 if the employee was promoted in the previous 24 months, 0 otherwise.
