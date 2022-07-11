@@ -1,4 +1,4 @@
-# A simple data visualiztion using R (dplyr, ggplot2) 
+# Data visualiztion using R (dplyr, ggplot2) 
 The question "Which department has the highest employee turnover? Which one has the lowest?" was part of a DataCamp competition.
 Data from https://www.datacamp.com
   - "department" - the department the employee belongs to.
